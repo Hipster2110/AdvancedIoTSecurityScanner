@@ -26,8 +26,8 @@ Ensure you have the following dependencies installed before running the script:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Hipster2110/AdvancedIoTSecurityTool-GUI-Version.git
-   cd AdvancedIoTSecurityTool-GUI-Version
+   git clone https://github.com/Hipster2110/AdvancedIoTSecurityScanner.git
+   cd AdvancedIoTSecurityScanner
    ```
 
 2. Install dependencies:
@@ -83,6 +83,8 @@ This project is licensed under the MIT License.
 ## Author
 Developed by **Hipster2110**. Contributions and feedback are welcome!
 
-## Disclaimer
-This tool is intended for **ethical security testing** only. Do not use it on networks without proper authorization!
+## Repository Link
+[GitHub Repository](https://github.com/Hipster2110/AdvancedIoTSecurityScanner.git)
 
+## Disclaimer
+This tool is intended for **ethical security testing** only. Do not use it on netwo
